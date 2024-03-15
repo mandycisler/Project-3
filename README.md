@@ -10,6 +10,9 @@ Moreover, we plan to enhance user engagement through JavaScript-driven interacti
 
 The link to the dataset can be found here: http://insideairbnb.com/get-the-data 
 
+https://files.slack.com/files-pri/T0604JHF3B6-F06PRG0QJ0L/image.png![Uploading image.png…]()
+
+
 ## Screenshots of Inspiration
 ![image](https://github.com/mandycisler/Project-3/assets/143036776/4040408a-f5df-4cf0-b70d-c063a2b9b702)
 
