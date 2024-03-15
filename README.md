@@ -18,6 +18,7 @@ The link to the dataset can be found here: http://insideairbnb.com/get-the-data
 ![image](https://media.licdn.com/dms/image/D5612AQGjU4QWbmOvnQ/article-cover_image-shrink_600_2000/0/1696752047203?e=1715817600&v=beta&t=exKkx0IJf7CY2o1ELu1IC_1g3mf4raBZy-NB1pt1NxA)
 
 ## Sketch of the Final Design
+![Screenshot 2024-03-14 at 9 04 42 PM](https://github.com/mandycisler/Project-3/assets/150471324/0f4ad9f9-033e-41e7-9553-1ec03ac0c289)
 
 ## Github Repository
 The project will be housed in the Project 3 Github Repository located here: https://github.com/mandycisler/Project-3.git 
