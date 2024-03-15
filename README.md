@@ -15,7 +15,7 @@ The link to the dataset can be found here: http://insideairbnb.com/get-the-data
 ## Screenshots of Inspiration
 ![image](https://github.com/mandycisler/Project-3/assets/143036776/4040408a-f5df-4cf0-b70d-c063a2b9b702)
 ![image](https://github.com/mandycisler/Project-3/assets/98859030/71cd06f5-d495-4c82-90a3-4676824cdfaf)
-
+https://media.licdn.com/dms/image/D5612AQGjU4QWbmOvnQ/article-cover_image-shrink_600_2000/0/1696752047203?e=1715817600&v=beta&t=exKkx0IJf7CY2o1ELu1IC_1g3mf4raBZy-NB1pt1NxA
 
 ## Sketch of the Final Design
 
