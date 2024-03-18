@@ -1,8 +1,8 @@
 # Project-3
 ## Topic and Rationale
-This project focuses on utilizing Airbnb data specifically for San Francisco to delve into the diverse range of accommodations available, including entire homes/apartments, private rooms, and shared rooms. Our analysis will encompass key metrics such as the average number of nights booked and the average income generated over the past 12 months.
+This project focuses on utilizing Airbnb data specifically for San Francisco to delve into the diverse range of accommodations available, including entire homes/apartments, private rooms, shared rooms, and hotel rooms. Our visuals will encompass key metrics such as daily price, licensed and unlicensed Airbnb accommodations, listings per host, and top hosts.
 
-In addition, we aim to present visual insights by comparing licensed and unlicensed Airbnb accommodations. We may explore the pricing dynamics across various neighborhoods to provide a comprehensive view of the market.
+In addition, we may explore the pricing dynamics across various neighborhoods to provide a comprehensive view of the market.
 
 To achieve this, we will leverage Python, Pandas, and Seaborn for data importation, cleaning, and visualization. Utilizing ETL (Extract, Transform, Load) practices, we'll establish a refined CSV format conducive to generating insightful visuals. Our visualizations will comprise a range of charts created with Seaborn to effectively communicate our findings.
 
