@@ -1,0 +1,54 @@
+html,
+body,
+#map {
+  height: 100%;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.popup-image img {
+  max-width: 100%; /* Ensures the image does not exceed the width of the popup */
+  height: auto; /* Allows the image's height to adjust proportionally to its width */
+}
+.legend {
+  line-height: 18px;
+  color: black;
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+}
+ .legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+}
+/* Switcher */
+.switcher {
+  /* Add styles to position the switcher */
+  position: absolute;
+  bottom: 600px;
+  right: 0px;
+  z-index: 1000; /* Ensure it appears above the map */
+  background-color: white; /* Background color */
+  padding: 10px; /* Add padding */
+  border-radius: 5px; /* Add border radius */
+  border: 1px solid #ccc; /* Add border */
+}
+
+/* Switcher label */
+.switcher label {
+  margin-left: 5px; /* Add margin to the left of the label */
+}
+
+/* Switcher input */
+.switcher input {
+  margin-right: 5px; /* Add margin to the right of the input */
+}
+
+
+/* Popup styles */
+.leaflet-popup-content {
+  width: 200px; /* Adjust the popup width */
+}
