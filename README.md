@@ -4,7 +4,7 @@ This project focuses on utilizing Airbnb data specifically for San Francisco to 
 
 In addition, we may explore the pricing dynamics across various neighborhoods to provide a comprehensive view of the market.
 
-To achieve this, we will leverage Python, Pandas, and Seaborn for data importation, cleaning, and visualization. Utilizing ETL (Extract, Transform, Load) practices, we'll establish a refined CSV format conducive to generating insightful visuals. Our visualizations will comprise a range of charts created with Seaborn to effectively communicate our findings.
+To achieve this, we will connect with MongoDB server and import our database. We will leverage Python, Pandas, and Seaborn for data importation, cleaning, and visualization. Utilizing ETL (Extract, Transform, Load) practices, we'll establish a refined CSV format conducive to generating insightful visuals. Our visualizations will comprise a range of charts created with Seaborn to effectively communicate our findings.
 
 Moreover, we plan to enhance user engagement through JavaScript-driven interactions. Our primary visualization will be an interactive map showcasing the distribution of Airbnb accommodations in San Francisco. Users will have the ability to customize their experience by selecting different parameters from menus or dropdowns, thus enriching their exploration of the data.
 
