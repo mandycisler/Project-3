@@ -34,7 +34,7 @@ fetch('../../Resources/listings.geojson') // Replace 'listings.geojson' with the
     })
     .catch(error => console.error('Error loading district boundaries:', error));
 
-d3.json('../../Resources/listings.json').then(function (data) {
+d3.json('../../Resources/listings_cleaned.json').then(function (data) {
     // Loop through each listing
     data.forEach(function (listing) {
         // Extract latitude and longitude
@@ -42,7 +42,7 @@ d3.json('../../Resources/listings.json').then(function (data) {
         var longitude = parseFloat(listing.longitude);
 
         // Determine the price category
-        var price = parseFloat(listing.price.replace('$', '').replace(',', ''));
+        var price = listing.price
         var color = getPriceCategoryColor(price);
         if (listing.host_is_superhost === "f") {
             listing.host_is_superhost = "No";
