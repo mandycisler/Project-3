@@ -21,7 +21,7 @@ var priceCategories = [
 var markersLayer = L.layerGroup(); // Layer group for markers
 
 // Add district boundaries
-fetch('listingsVik.geojson') // Replace 'listings.geojson' with the path to your GeoJSON file
+fetch('../../Resources/listings.geojson') // Replace 'listings.geojson' with the path to your GeoJSON file
     .then(response => response.json())
     .then(data => {
         L.geoJSON(data, {
@@ -34,7 +34,7 @@ fetch('listingsVik.geojson') // Replace 'listings.geojson' with the path to your
     })
     .catch(error => console.error('Error loading district boundaries:', error));
 
-d3.json('listingsVik.json').then(function (data) {
+d3.json('../../Resources/listings.json').then(function (data) {
     // Loop through each listing
     data.forEach(function (listing) {
         // Extract latitude and longitude
