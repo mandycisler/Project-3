@@ -1,4 +1,4 @@
-# Project-3 San Francisco Airbnb Visualization
+# San Francisco Airbnb Visualization
 ## Overview and Purpose
 This project aimed to tell a compelling story using Airbnb data specifically for San Francisco unveiling the diverse range of accommodations available, from entire homes/apartments, private rooms, and shared rooms. Our analysis delved into key metrics such as daily price, licensed and unlicensed Airbnb accommodations, listings per host, and top hosts.
 
